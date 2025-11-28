@@ -1,19 +1,6 @@
-title: "Zhou Zhou | 3D Scanning & Vision Engineer"
-description: "Industrial 3D Scanning · Vision Algorithms · Qt C++ Software · SDK Development"
+title: "Zhou Vision Lab"
+description: "From Prototype to Product — Complete 3D Vision Solutions"
 theme: jekyll-theme-cayman
 
-# Enable navigation links
-navbar:
-  - name: "Home"
-    link: "/"
-  - name: "Projects"
-    link: "/projects"
-  - name: "Gallery"
-    link: "/gallery"
-  - name: "About"
-    link: "/about"
-  - name: "Contact"
-    link: "/contact"
-
-# Markdown options
 markdown: kramdown
+
