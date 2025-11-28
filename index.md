@@ -1,5 +1,5 @@
 ---
-title: "Zhou Zhou | 3D Scanning & Computer Vision Engineer"
+title: "Zhou | 3D Scanning & Computer Vision Engineer"
 ---
 
 # 👋 Hi, I'm Zhou
