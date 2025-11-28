@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="/">Home</a> |
+  <a href="/projects">Projects</a> |
+  <a href="/gallery">Gallery</a> |
+  <a href="/about">About</a> |
+  <a href="/contact">Contact</a>
+</p>
+
+---
+
+
 ---
 title: "About Me | 3D Vision & Scanning Engineer"
 ---
